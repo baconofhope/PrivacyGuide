@@ -1,0 +1,1 @@
+﻿we use the locations you provide or that we’ve detected using technologies like GPS or IP addresses

@@ -1,0 +1,1 @@
+﻿It depends on the type of data and how it was collected. For example, information that can be accessed by the CheckUser tool is deleted after three months.

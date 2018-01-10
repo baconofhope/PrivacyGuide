@@ -1,0 +1,2 @@
+﻿You can also close your account through the PayPal website. If you close your PayPal account, we will mark your
+account in our database as "Closed", but will keep your Account Information in our database.

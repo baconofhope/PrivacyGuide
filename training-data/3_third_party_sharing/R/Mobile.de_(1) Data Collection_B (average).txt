@@ -1,0 +1,4 @@
+﻿When you have registered an account with us or have otherwise provided your personal data, you decided to give us your personal information and not to remain anonymous to us. 
+When you visit our websites, use our applications, services and tools or reply to our ads or other content, we automatically collect the information you sent to us by your computer, mobile device or other equipment that provides access. 
+ device ID or unique user identifier, device type, computer and connection information, statistics on page views, traffic to and from the sites, visited sites, referral URL, ad data, IP address and standard web log information; and
+    • anonymous information collected through our use of cookies and web beacons.

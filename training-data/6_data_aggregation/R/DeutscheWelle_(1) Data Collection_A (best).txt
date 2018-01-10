@@ -1,0 +1,1 @@
+﻿ collects anonymous statistical data. This is traffic data without any reference to individuals: all that is logged is the browser used, the number of page views and visits, the navigation behavior and the time an Internet user spends on a site.

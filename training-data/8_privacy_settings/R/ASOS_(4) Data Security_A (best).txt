@@ -1,0 +1,1 @@
+﻿To protect any data you store on our servers, we regularly monitor our system for possible vulnerabilities and attacks, as well as carrying out penetration testing of our own on those systems to try to identify possible improvements

@@ -1,0 +1,6 @@
+﻿The data we collect is information that identifies you personally, and may include:
+• Your name
+• Gender
+• Date of Birth
+• Country
+

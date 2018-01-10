@@ -1,0 +1,1 @@
+﻿We take great care to ensure the security of our website and App. The data you provide to us is protected using SSL (Secure Socket Layer) technology. SSL is the industry standard method of encrypting personal information and credit card details so that they can be securely transferred over the Internet.

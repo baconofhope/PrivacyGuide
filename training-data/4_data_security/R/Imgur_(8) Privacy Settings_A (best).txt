@@ -1,0 +1,1 @@
+﻿Individual images can be toggled between "private" and "public" through your personal settings menu, accessible by clicking your username after you've signed in

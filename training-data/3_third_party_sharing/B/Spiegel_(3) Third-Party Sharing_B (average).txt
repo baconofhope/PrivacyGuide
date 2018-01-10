@@ -1,0 +1,1 @@
+﻿ The PROVIDER does work together with external service providers in the context of central data processing

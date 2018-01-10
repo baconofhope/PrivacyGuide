@@ -1,0 +1,11 @@
+﻿We also may collect information automatically through your use of our mobile application(s) (through cookies, beacons or other tracking technologies designed for mobile applications), including, but not limited to, the following:
+
+Your pinpointed physical location information from technologies like GPS, Wi-Fi, or cell tower proximity (geo-location tracking), if you agree to grant us permission to do so;
+At select airports in the U.S., your precise location may be tracked continuously to provide you with location-based services, if you agree to grant us permission to do so. For more information, and to learn how to turn off this tracking, please see the Location Services FAQ located on the side menu of the United App;
+Your domain name;
+Device ID or alternative ID where required by the platform provider;
+Electronic data concerning operating systems and computing devices/browser, including types;
+Features you use and links you click;
+Amount of time spent in the application;
+Installs and uninstalls;
+Transaction details and history.

@@ -1,0 +1,1 @@
+﻿This includes your payment information, such as your credit or debit card number and other card information, and other account and authentication information, as well as billing, shipping and contact details.

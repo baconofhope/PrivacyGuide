@@ -1,0 +1,12 @@
+﻿–Access and change information in your profile page at any time, choose whether your profile page is available to search engines, or choose whether others can find your Pinterest account using your email address.
+  
+–Link or unlink your Pinterest account from an account on another service (e.g., Facebook or Twitter). For some services (like Facebook), you can also choose whether or not to publish your activity on Pinterest to that service.
+  
+–Create or be added to a secret board. Secret boards are visible to you and other participants in the board, and any participant may choose to make the contents of the board available to anyone else. For example, another participant may invite someone else to the board, make the board available to an app they use to view Pinterest, or even just take an image from the board and email it to their friends. For more information about secret boards, please visit our Help Center.
+  
+–Choose whether Pinterest will be customized for you using information from off-Pinterest websites or apps. If you have a Pinterest account and want to control how your off-Pinterest data is used to tailor your experience, you can visit your account settings and update your preferences. If you don’t have a Pinterest account, or don’t want us to customize Pinterest for you when you’re signed out, you can opt out here.
+  
+–Choose whether your purchases on Pinterest will be used to customize recommendations and ads for you. You can view and manage your purchase history by going to “Order history” in your account settings, and if you hide a purchase from your history, we won’t use it to customize Pinterest for you.
+  
+–Also, we support the Do Not Track browser setting, and you can learn more about how it affects our collection and use of off-Pinterest data.
+

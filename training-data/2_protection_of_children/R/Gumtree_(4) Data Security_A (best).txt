@@ -1,0 +1,5 @@
+﻿
+We protect your information using appropriate technical and administrative security measures to
+reduce the risks of loss, misuse, unauthorized access, disclosure and alteration. Some of the
+safeguards we use are firewalls and data encryption, physical access controls to our data centers,
+and information access authorization controls.

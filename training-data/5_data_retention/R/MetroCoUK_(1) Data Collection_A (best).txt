@@ -1,0 +1,3 @@
+﻿Your IP address, which is a number that identifies a specific network device on the internet which allows your device to communicate with websites and apps.
+Technical information from your device relating to the service you receive
+Information relating to the location of your device.

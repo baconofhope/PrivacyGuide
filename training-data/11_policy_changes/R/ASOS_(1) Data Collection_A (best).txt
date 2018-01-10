@@ -1,0 +1,1 @@
+﻿statistical information and log data about number of visits to certain pages on the site (e.g. the home page); the pages you viewed and activities you carried out during your visit; the date and time of your visit; the duration of an individual page view, the paths taken by visitors through the site – this is also non-personally identifiable information

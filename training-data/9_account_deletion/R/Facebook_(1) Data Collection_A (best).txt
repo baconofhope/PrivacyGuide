@@ -1,0 +1,1 @@
+﻿Connection information such as the name of your mobile operator or ISP, browser type, language and time zone, mobile phone number and IP address.

@@ -1,0 +1,3 @@
+﻿If you are a registered PayPal user, your name, email address, phone number (if applicable) date of sign-up, the number of payments you
+have received from verified PayPal users, and whether you have been verified to have control of a bank account are made available to
+other PayPal customers

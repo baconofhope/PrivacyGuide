@@ -1,0 +1,9 @@
+﻿Information we may hold about you
+[…]
+Information about your interaction with our websites, mobile apps and other products and services, including adverts
+Information we collect using cookies stored on your device about your use of our websites and/or selected third party websites.
+Information we collect or remember using technologies similar to cookies, such as device identifiers on your mobile device.
+Your IP address, which is a number that identifies a specific network device on the internet which allows your device to communicate with websites and apps.
+Technical information from your device relating to the service you receive
+Information relating to the location of your device.
+

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.Tooltip?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="540.0" prefWidth="960.0" style="-fx-background-color: #006192;" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="privacyguide.gui.MainViewController">
+   <children>
+      <AnchorPane layoutX="359.0" layoutY="60.0" prefHeight="423.0" prefWidth="566.0" style="-fx-background-color: #005C8B;">
+         <children>
+            <Label layoutX="17.0" layoutY="98.0" text="Data collection:" textFill="#e4e2dd" />
+            <ImageView fx:id="ivDataCollection" fitWidth="70.0" layoutX="23.0" layoutY="23.0" pickOnBounds="true" preserveRatio="true" />
+            <Label layoutY="20.0" prefHeight="119.0" prefWidth="118.0">
+               <tooltip>
+                  <Tooltip fx:id="ttDataCollection" text="Empty Tooltip" showDuration="60s">
+                     <font>
+                        <Font size="14.0" />
+                     </font></Tooltip>
+               </tooltip>
+            </Label>
+            <Label fx:id="lblClassDataCollection" layoutX="55.0" layoutY="111.0" text="?" textAlignment="CENTER" textFill="#e4e2dd">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="137.0" layoutY="98.0" text="Protection of children:" textFill="#e4e2dd" />
+            <ImageView fx:id="ivProtectionOfChildren" fitWidth="70.0" layoutX="161.0" layoutY="23.0" pickOnBounds="true" preserveRatio="true" />
+            <Label fx:id="lblClassProtectionOfChildren" layoutX="193.0" layoutY="111.0" text="?" textAlignment="CENTER" textFill="#e4e2dd">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="136.0" layoutY="20.0" prefHeight="119.0" prefWidth="118.0">
+               <tooltip>
+                  <Tooltip fx:id="ttProtectionOfChildren" text="Empty Tooltip" showDuration="60s">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                  </Tooltip>
+               </tooltip>
+            </Label>
+            <Label layoutX="295.0" layoutY="98.0" text="Third-Party sharing" textFill="#e4e2dd" />
+            <ImageView fx:id="ivThirdPartySharing" fitWidth="70.0" layoutX="311.0" layoutY="23.0" pickOnBounds="true" preserveRatio="true" />
+            <Label fx:id="lblClassThirdPartySharing" layoutX="343.0" layoutY="111.0" prefWidth="7.0" text="?" textAlignment="CENTER" textFill="#e4e2dd">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="288.0" layoutY="16.0" prefHeight="119.0" prefWidth="118.0">
+               <tooltip>
+                  <Tooltip fx:id="ttThirdPartySharing" text="Empty Tooltip" showDuration="60s">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                  </Tooltip>
+               </tooltip>
+            </Label>
+            <Label layoutX="450.0" layoutY="98.0" text="Data security:" textFill="#e4e2dd" />
+            <ImageView fx:id="ivDataSecurity" fitWidth="70.0" layoutX="451.0" layoutY="23.0" pickOnBounds="true" preserveRatio="true" />
+            <Label fx:id="lblClassDataSecurity" layoutX="483.0" layoutY="111.0" prefWidth="7.0" text="?" textAlignment="CENTER" textFill="#e4e2dd">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="428.0" layoutY="10.0" prefHeight="129.0" prefWidth="118.0">
+               <tooltip>
+                  <Tooltip fx:id="ttDataSecurity" text="Empty Tooltip" showDuration="60s">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                  </Tooltip>
+               </tooltip>
+            </Label>
+            <Label layoutX="21.0" layoutY="228.0" text="Data retention:" textFill="#e4e2dd" />
+            <ImageView fx:id="ivDataRetention" fitWidth="70.0" layoutX="23.0" layoutY="153.0" pickOnBounds="true" preserveRatio="true" />
+            <Label fx:id="lblClassDataRetention" layoutX="57.0" layoutY="242.0" prefWidth="7.0" text="?" textAlignment="CENTER" textFill="#e4e2dd">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="2.0" layoutY="148.0" prefHeight="119.0" prefWidth="118.0">
+               <tooltip>
+                  <Tooltip fx:id="ttDataRetention" text="Empty Tooltip" showDuration="60s">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                  </Tooltip>
+               </tooltip>
+            </Label>
+            <Label layoutX="148.0" layoutY="228.0" text="Data aggregation:" textFill="#e4e2dd" />
+            <ImageView fx:id="ivDataAggregation" fitWidth="70.0" layoutX="161.0" layoutY="153.0" pickOnBounds="true" preserveRatio="true" />
+            <Label fx:id="lblClassDataAggregation" layoutX="193.0" layoutY="242.0" prefWidth="7.0" text="?" textAlignment="CENTER" textFill="#e4e2dd">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="138.0" layoutY="144.0" prefHeight="119.0" prefWidth="118.0">
+               <tooltip>
+                  <Tooltip fx:id="ttDataAggregation" text="Empty Tooltip" showDuration="60s">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                  </Tooltip>
+               </tooltip>
+            </Label>
+            <Label layoutX="305.0" layoutY="228.0" text="Control of data:" textFill="#e4e2dd" />
+            <ImageView fx:id="ivControlOfData" fitWidth="70.0" layoutX="311.0" layoutY="153.0" pickOnBounds="true" preserveRatio="true" />
+            <Label fx:id="lblClassControlOfData" layoutX="343.0" layoutY="242.0" prefWidth="7.0" text="?" textAlignment="CENTER" textFill="#e4e2dd">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="292.0" layoutY="152.0" prefHeight="119.0" prefWidth="118.0">
+               <tooltip>
+                  <Tooltip fx:id="ttControlOfData" text="Empty Tooltip" showDuration="60s">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                  </Tooltip>
+               </tooltip>
+            </Label>
+            <Label layoutX="444.0" layoutY="228.0" text="Privacy settings:" textFill="#e4e2dd" />
+            <ImageView fx:id="ivPrivacySetting" fitWidth="70.0" layoutX="451.0" layoutY="153.0" pickOnBounds="true" preserveRatio="true" />
+            <Label fx:id="lblClassPrivacySettings" layoutX="483.0" layoutY="242.0" prefWidth="7.0" text="?" textAlignment="CENTER" textFill="#e4e2dd">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="427.0" layoutY="152.0" prefHeight="119.0" prefWidth="118.0">
+               <tooltip>
+                  <Tooltip fx:id="ttPrivacySettings" text="Empty Tooltip" showDuration="60s">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                  </Tooltip>
+               </tooltip>
+            </Label>
+            <Label layoutX="12.0" layoutY="363.0" text="Account deletion:" textFill="#e4e2dd" />
+            <ImageView fx:id="ivAccountDeletion" fitWidth="70.0" layoutX="23.0" layoutY="288.0" pickOnBounds="true" preserveRatio="true" />
+            <Label fx:id="lblClassAccountDeletion" layoutX="57.0" layoutY="378.0" prefWidth="7.0" text="?" textAlignment="CENTER" textFill="#e4e2dd">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="2.0" layoutY="286.0" prefHeight="119.0" prefWidth="118.0">
+               <tooltip>
+                  <Tooltip fx:id="ttAccountDeletion" text="Empty Tooltip" showDuration="60s">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                  </Tooltip>
+               </tooltip>
+            </Label>
+            <Label layoutX="156.0" layoutY="363.0" text="Policy changes:" textFill="#e4e2dd" />
+            <ImageView fx:id="ivPolicyChanges" fitWidth="70.0" layoutX="161.0" layoutY="288.0" pickOnBounds="true" preserveRatio="true" />
+            <Label fx:id="lblClassPolicyChanges" layoutX="194.0" layoutY="378.0" prefWidth="7.0" text="?" textAlignment="CENTER" textFill="#e4e2dd">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="141.0" layoutY="268.0" prefHeight="119.0" prefWidth="118.0">
+               <tooltip>
+                  <Tooltip fx:id="ttPolicyChanges" text="Empty Tooltip" showDuration="60s">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                  </Tooltip>
+               </tooltip>
+            </Label>
+            <Label layoutX="292.0" layoutY="358.0" prefHeight="27.0" prefWidth="118.0" text="Privacy breach notice:" textAlignment="CENTER" textFill="#e4e2dd" wrapText="true" />
+            <ImageView fx:id="ivPrivacyBreach" fitWidth="70.0" layoutX="314.0" layoutY="288.0" pickOnBounds="true" preserveRatio="true" />
+            <Label fx:id="lblClassPrivacyBreach" layoutX="347.0" layoutY="378.0" prefWidth="7.0" text="?" textAlignment="CENTER" textFill="#e4e2dd">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="288.0" layoutY="281.0" prefHeight="129.0" prefWidth="135.0">
+               <tooltip>
+                  <Tooltip fx:id="ttPrivacyBreach" text="Aspect not available" showDuration="60s">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                  </Tooltip>
+               </tooltip>
+            </Label>
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutX="46.0" layoutY="59.0" prefHeight="423.0" prefWidth="270.0" style="-fx-background-color: #005C8B;">
+         <children>
+            <Label layoutX="28.0" layoutY="69.0" text="PrivacyGuide" textAlignment="CENTER" textFill="#e4e2dd">
+               <font>
+                  <Font size="36.0" />
+               </font>
+            </Label>
+            <Label layoutX="26.0" layoutY="136.0" text="Please insert the link of the privacy policy" textFill="#e4e2dd" />
+            <Label layoutX="82.0" layoutY="153.0" text="you want to check:" textFill="#e4e2dd" />
+            <Button fx:id="btnStart" layoutX="41.0" layoutY="261.0" mnemonicParsing="false" onAction="#startProcessing" prefHeight="25.0" prefWidth="180.0" style="-fx-background-color: #004063;" text="Start processing!" textFill="#e4e2dd" />
+            <Line endX="70.0" layoutX="146.0" layoutY="188.0" startX="-100.0" stroke="#e4e2dd" AnchorPane.leftAnchor="45.5" AnchorPane.rightAnchor="53.5" />
+            <TextField fx:id="tfURL" layoutX="41.0" layoutY="218.0" prefHeight="25.0" prefWidth="180.0" promptText="http://" />
+            <ProgressBar fx:id="progressBar" layoutX="31.0" layoutY="310.0" prefWidth="200.0" progress="0.0" />
+            <Label layoutX="34.0" layoutY="335.0" prefHeight="17.0" prefWidth="33.0" text="Task:" textFill="#e4e2dd" />
+            <Label fx:id="lblProgressTask" layoutX="82.0" layoutY="335.0" prefHeight="17.0" prefWidth="157.0" text="none" textFill="#e4e2dd">
+               <font>
+                  <Font name="System Italic" size="12.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+      <Button fx:id="btnAbout" layoutX="745.0" layoutY="501.0" mnemonicParsing="false" onAction="#showAboutText" prefHeight="25.0" prefWidth="180.0" style="-fx-background-color: #004063;" text="About" textFill="#e4e2dd" />
+      <Label fx:id="lblAdvice" layoutX="361.0" layoutY="493.0" text="Please hover over the icons for further details" textFill="#e4e2dd">
+         <font>
+            <Font name="System Italic" size="12.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

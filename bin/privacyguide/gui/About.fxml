@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="356.0" prefWidth="314.0" style="-fx-background-color: #006192;" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="privacyguide.gui.AboutController">
+   <children>
+      <Label layoutX="35.0" layoutY="125.0" prefHeight="51.0" prefWidth="230.0" text="This program is part of a study at Goethe Universität Frankfurt a.M. (Germany)." textAlignment="CENTER" textFill="WHITE" wrapText="true" />
+      <Label layoutX="86.0" layoutY="164.0" prefHeight="27.0" prefWidth="128.0" text="© 2017, Peter Hofmann" textFill="WHITE" wrapText="true" />
+      <ImageView fx:id="ivGU" fitHeight="104.0" fitWidth="136.0" layoutX="82.0" layoutY="22.0" pickOnBounds="true" preserveRatio="true" />
+      <Line endX="100.0" layoutX="150.0" layoutY="119.0" startX="-100.0" stroke="WHITE" />
+      <Label layoutX="18.0" layoutY="208.0" prefHeight="145.0" prefWidth="278.0" text="The information provided by this software is only for informational purposes. The results are not meant as legal advices. Please always check the text passages which have been chosen for the classification. Please do always decide for yourself if the selection and the classifed risk level match." textAlignment="JUSTIFY" textFill="WHITE" wrapText="true" />
+      <Label layoutX="18.0" layoutY="206.0" prefHeight="27.0" prefWidth="128.0" text="Disclaimer:" textFill="WHITE" wrapText="true">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

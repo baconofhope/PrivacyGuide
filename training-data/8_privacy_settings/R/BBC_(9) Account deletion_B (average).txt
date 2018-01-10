@@ -1,0 +1,1 @@
+﻿"if you delete account, personal information is deleted automatically, remaining information is anonymised for analytic purposes"

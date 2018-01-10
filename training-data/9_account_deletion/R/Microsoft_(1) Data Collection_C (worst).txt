@@ -1,0 +1,1 @@
+﻿Your data can include real-time data like your heart rate and daily steps taken. It can also include your health records if you choose to use HealthVault to store that data
